@@ -1,0 +1,61 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-lock.yaml
+
+# Build output
+dist/
+build/
+
+# TypeScript
+*.tsbuildinfo
+
+# Vite
+.vite/
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# Environment files
+.env
+.env.*.local
+!.env.example
+
+# Editor directories and files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# OS
+*.swp
+*~
+
+# Coverage
+coverage/
+
+# Local runtime files
+*.local
+
+# Parcel / Webpack
+.cache/
+.parcel-cache/
+webpack-stats.json
+
+# Lint and testing
+eslintcache
+*.test.ts.snap
+
+# SvelteKit / React cache
+.svelte-kit/
+
+# Storybook
+.out/
+storybook-static/
+
+# Optional:
+*.tgz
