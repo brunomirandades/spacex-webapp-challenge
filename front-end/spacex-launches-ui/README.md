@@ -4,6 +4,7 @@ A modern and responsive frontend application to display SpaceX launch data. Buil
 
 ## 📁 Project Structure
 
+```bash
 spacex-launches-ui/
 ├── public/ # Static assets
 │ └── placeholder.svg
@@ -38,6 +39,7 @@ spacex-launches-ui/
 ├── tailwind.config.js # Tailwind CSS configuration
 ├── tsconfig.json # TypeScript configuration
 └── README.md # This file
+```
 
 ## 🚀 Getting Started
 

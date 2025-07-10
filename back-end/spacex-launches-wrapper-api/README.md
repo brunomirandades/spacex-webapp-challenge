@@ -20,6 +20,7 @@ This is a custom backend API built with Node.js and TypeScript that wraps the [S
 
 ## 📁 Project Structure
 
+```bash
 /spacex-wrapper-api/
 ├── src/
 │ ├── controllers/ # Express route controllers
@@ -32,6 +33,7 @@ This is a custom backend API built with Node.js and TypeScript that wraps the [S
 ├── tsconfig.json
 ├── package.json
 └── README.md
+```
 
 ## 🔧 Setup Instructions
 

@@ -15,6 +15,7 @@ A modern fullstack application to display detailed information about SpaceX laun
 
 ## 🧾 Project Structure
 
+```bash
 spacex-launches/
 ├── back-end/
 │   ├── src/
@@ -39,6 +40,7 @@ spacex-launches/
 │
 ├── README.md              # This file
 └── ...
+```
 
 ## ⚙️ Getting Started
 
